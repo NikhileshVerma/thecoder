@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nikhilesh Verma",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikk94/thecoder.git"
+  },
+  "keywords": [
+    "thecoder"
+  ],
+  "bugs": {
+    "url": "https://github.com/nikk94/thecoder/issues"
+  },
+  "homepage": "https://github.com/nikk94/thecoder#readme"
 }
