@@ -1,2 +1,3 @@
-# thecoder
-NPM sample plugin
+# What is this?
+
+This is sample plugin for testing purpose
