@@ -1,5 +1,5 @@
-function thecoder(option) {
+function theverifycoder() {
     console.log("This is a message from the my package");
 }
 
-module.exports.thecoder = this.thecoder;
+module.exports.theverifycoder = this.theverifycoder;
